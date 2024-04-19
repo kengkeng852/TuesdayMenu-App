@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10926811419",
+    "project_id": "tuesdaymenu",
+    "storage_bucket": "tuesdaymenu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10926811419:android:7659b52ad34104e5338bbe",
+        "android_client_info": {
+          "package_name": "com.example.flutterproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlAE_xKwgv0QLc7hFFkDafx9ouJ7X1SRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
